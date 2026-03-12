@@ -1,0 +1,17 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+}
+header {
+background-color: #1a3a5c;
+color: white;
+padding: 20px 40px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+nav a {
+color: white;
+text-decoration: none;
+margin-left: 20px;
+}
